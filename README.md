@@ -15,7 +15,7 @@ There will be 5 modules, with real projects for develop, practice and create in-
 - [X] **Module 01: Python and Pandas for real data analysis. Start: 2021/05/18, Finish: 2021/05/30**
 In this module we are going to use Python and Pandas to explore data on the distribution of health funds. The challenges start from reading the data with pandas to acquiring external data sources to enrich our analysis, simulating the daily challenges of a data scientist. **Tools:** Python, Pandas, Matplotlib and Numpy.
 
- - [X]**Project:** My final projet for this module is to explore Brazil's Ministry of Health databases
+ - [X] **Project:** My final projet for this module is to explore Brazil's Ministry of Health databases
 to find out whether the number of deaths caused by cardiovascular disease increased during the COVID-19 pandemic.
 
 - [ ] **Module 02: Data visualization with Seaborn and Matplotlib. Start: 2021/05/31 - Finish: 2021/06/13**
