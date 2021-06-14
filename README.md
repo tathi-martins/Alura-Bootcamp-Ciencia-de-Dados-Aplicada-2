@@ -15,13 +15,13 @@ There will be 5 modules, with real projects for develop, practice and create in-
 - [X] **Module 01: Python and Pandas for real data analysis. Start: 2021/05/18, Finish: 2021/05/30**
 In this module we are going to use Python and Pandas to explore data on the distribution of health funds. The challenges start from reading the data with pandas to acquiring external data sources to enrich our analysis, simulating the daily challenges of a data scientist. **Tools:** Python, Pandas, Matplotlib and Numpy.
 
- - [X] **Project:** My final projet for this module is to explore Brazil's Ministry of Health databases
+ - - [X] **Project: [(Submitted)](https://github.com/tathi-martins/Alura-Bootcamp---Ci-ncia-de-Dados-Aplicada-2/blob/main/Super_Desafio_do_M%C3%B3dulo_01.ipynb)**. My final projet for this module is to explore Brazil's Ministry of Health databases
 to find out whether the number of deaths caused by cardiovascular disease increased during the COVID-19 pandemic.
 
-- [ ] **Module 02: Data visualization with Seaborn and Matplotlib. Start: 2021/05/31 - Finish: 2021/06/13**
+- [X] **Module 02: Data visualization with Seaborn and Matplotlib. Start: 2021/05/31 - Finish: 2021/06/13**
 We go deeper into exploratory data analysis using Seaborn, Matplotlib, good practices for data visualization and Storytelling techniques to create valuable insights about our data. **Tools:** Python, Pandas, Matplotlib and Seaborn.
 
-- [ ] **Project:** Visualization and analysis of data applied to health.
+- - [X] **Project: [(Submitted)](https://github.com/tathi-martins/Alura-Bootcamp-Ciencia-de-Dados-Aplicada-2/blob/main/Super_Desafio_Modulo_02.ipynb)** Find out if there has been a drop in vaccination coverage in Brazil in the last 9 years..
 
 
 - [ ] **Module 03: Time series analysis. Start: 2021/06/14 - Finish: 2021/07/04**
@@ -64,9 +64,10 @@ Os projetos estão organizados em pastas nomeadas segundo os módulos do curso, 
 -**Abaixo um resumo dos módulos do Bootcamp:**
 
 - [X] **Módulo 01: Python e Pandas para análises de dados reais.**
-- [X] **Projeto-final:[(Entregue)](https://github.com/tathi-martins/Alura-Bootcamp---Ci-ncia-de-Dados-Aplicada-2/blob/main/Super_Desafio_do_M%C3%B3dulo_01.ipynb)**. Descobrir se houve aumento de casos de mortes causados por doenças cardiovasculares durante a pandemia.
+- - [X] **Projeto-final:[(Entregue)](https://github.com/tathi-martins/Alura-Bootcamp---Ci-ncia-de-Dados-Aplicada-2/blob/main/Super_Desafio_do_M%C3%B3dulo_01.ipynb)**. Descobrir se houve aumento de casos de mortes causados por doenças cardiovasculares durante a pandemia.
 
-- [ ] **Módulo 02: Visualização de dados com Seaborn e Matplotlib.**
+- [X] **Módulo 02: Visualização de dados com Seaborn e Matplotlib.**
+- - [X] **Projeto-final:[(Entregue)](https://github.com/tathi-martins/Alura-Bootcamp-Ciencia-de-Dados-Aplicada-2/blob/main/Super_Desafio_Modulo_02.ipynb)**. Descobrir se houve queda na cobertura vacinal no Brasil nos últimos 9 anos.
 
 - [ ] **Módulo 03: Análise de séries temporais.**
 
