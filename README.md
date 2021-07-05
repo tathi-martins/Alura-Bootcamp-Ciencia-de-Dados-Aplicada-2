@@ -24,22 +24,22 @@ We go deeper into exploratory data analysis using Seaborn, Matplotlib, good prac
 - - [X] **Project: [(Submitted)](https://github.com/tathi-martins/Alura-Bootcamp-Ciencia-de-Dados-Aplicada-2/blob/main/Super_Desafio_Modulo_02.ipynb)** Find out if there has been a drop in vaccination coverage in Brazil in the last 9 years..
 
 
-- [ ] **Module 03: Time series analysis. Start: 2021/06/14 - Finish: 2021/07/04**
+- [X] **Module 03: Time series analysis. Start: 2021/06/14 - Finish: 2021/07/04**
 This module focuses on the analysis and prediction of time series. We will apply all the knowledge acquired to work with this type of data full of particularities, in addition to studying specific tools, such as Prophet, developed by Facebook. **Tools:** Python, Pandas, Seaborn and Prophet.
 
-- [ ] **Project:** Analysis of time series applied to health.
+- - [X] **Project:** Analysis of time series applied to health.
 
 
 - [ ] **Module 04: Treatment, analysis and applied Machine Learning. Start: 2021/07/05 - Finish: 2021/07/18**
 This module aims to start the development of a project that will go through all workflow in Data Science, from understanding the problem, processing and analyzing data to the solution proposal, developing its first Machine Learning model with Scikit-Learn. **Tools:** Python, Pandas, Seaborn, Matplotlib, Numpy and Scikit-learn.
 
-- [ ] **Project:** Data Science applied to COVID-19 data.
+- - [ ] **Project:** Data Science applied to COVID-19 data.
 
 
 - [ ] **Module 05: Models, metrics and validations in Machine Learning.Start: 2021/07/19 - Finish: 2021/08/03**
 In this course we will explore new algorithms, metrics and validation techniques using the Scikit-learn library in a practical and in-depth way. **Tools:** Python, Pandas, Seaborn, Matplotlib, Numpy and Scikit-learn.
 
-- [ ] **Project:** Machine Learning applied to COVID-19 data.
+- - [ ] **Project:** Machine Learning applied to COVID-19 data.
 
 
 - [ ] **Surprise Module: What is next?**
@@ -69,7 +69,8 @@ Os projetos estão organizados em pastas nomeadas segundo os módulos do curso, 
 - [X] **Módulo 02: Visualização de dados com Seaborn e Matplotlib.**
 - - [X] **Projeto-final:[(Entregue)](https://github.com/tathi-martins/Alura-Bootcamp-Ciencia-de-Dados-Aplicada-2/blob/main/Super_Desafio_Modulo_02.ipynb)**. Descobrir se houve queda na cobertura vacinal no Brasil nos últimos 9 anos.
 
-- [ ] **Módulo 03: Análise de séries temporais.**
+- [X] **Módulo 03: Análise de séries temporais.**
+- - [X] **Projeto-final:[(Entregue)](https://github.com/tathi-martins/Alura-Bootcamp-Ciencia-de-Dados-Aplicada-2/blob/main/Super_Projeto_modulo03.ipynb)**. Fazer projeção da quantidade de casos de COVID-19 na cidade de Araraquara para o mês de julho de 2021, usando a ferramenta de Machine Learning Prophet e bibliotecas como scikit-learn.
 
 - [ ] **Módulo 04: Tratamento, análise e Machine Learnig aplicado.**
 
